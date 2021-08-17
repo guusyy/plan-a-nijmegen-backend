@@ -7,10 +7,6 @@
   },
   "options": {},
   "attributes": {
-    "title": {
-      "type": "string",
-      "required": true
-    },
     "introTekst": {
       "type": "richtext",
       "required": true
