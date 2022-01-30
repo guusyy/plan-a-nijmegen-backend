@@ -33,24 +33,6 @@
       "component": "shared.seo",
       "required": true
     },
-    "OpeningstijdDoordeweeks": {
-      "type": "component",
-      "repeatable": false,
-      "component": "openingstijd.openingstijden",
-      "required": true
-    },
-    "OpeningstijdZaterdag": {
-      "type": "component",
-      "repeatable": false,
-      "component": "openingstijd.openingstijden",
-      "required": true
-    },
-    "OpeningstijdZondag": {
-      "type": "component",
-      "repeatable": false,
-      "component": "openingstijd.openingstijden",
-      "required": true
-    },
     "Gegevens": {
       "type": "component",
       "repeatable": false,
@@ -64,6 +46,28 @@
       "required": true
     },
     "privacybeleid": {
+      "type": "component",
+      "repeatable": false,
+      "component": "disclaimer-privacybeleid.disclaimer",
+      "required": true
+    },
+    "FooterColumn1": {
+      "type": "richtext",
+      "required": true
+    },
+    "FooterColumn2": {
+      "type": "richtext"
+    },
+    "FooterColumn3": {
+      "type": "richtext"
+    },
+    "Colofon": {
+      "type": "component",
+      "repeatable": false,
+      "component": "disclaimer-privacybeleid.disclaimer",
+      "required": true
+    },
+    "AlgemeneVoorwaarden": {
       "type": "component",
       "repeatable": false,
       "component": "disclaimer-privacybeleid.disclaimer",
