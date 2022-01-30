@@ -51,14 +51,14 @@
       "component": "disclaimer-privacybeleid.disclaimer",
       "required": true
     },
-    "FooterColumn1": {
+    "FooterColumnOne": {
       "type": "richtext",
       "required": true
     },
-    "FooterColumn2": {
+    "FooterColumnTwo": {
       "type": "richtext"
     },
-    "FooterColumn3": {
+    "FooterColumnThree": {
       "type": "richtext"
     },
     "Colofon": {
