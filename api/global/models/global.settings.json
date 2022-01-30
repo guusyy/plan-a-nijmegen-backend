@@ -33,24 +33,25 @@
       "component": "shared.seo",
       "required": true
     },
-    "Gegevens": {
+    "OpeningstijdDoordeweeks": {
       "type": "component",
       "repeatable": false,
-      "component": "gegevens.gegevens",
+      "component": "openingstijd.openingstijden",
       "required": true
     },
-    "Disclaimer": {
+    "OpeningstijdZaterdag": {
       "type": "component",
       "repeatable": false,
-      "component": "disclaimer-privacybeleid.disclaimer",
+      "component": "openingstijd.openingstijden",
       "required": true
     },
-    "privacybeleid": {
+    "OpeningstijdZondag": {
       "type": "component",
       "repeatable": false,
-      "component": "disclaimer-privacybeleid.disclaimer",
+      "component": "openingstijd.openingstijden",
       "required": true
     },
+<<<<<<< HEAD
     "FooterColumnOne": {
       "type": "richtext",
       "required": true
@@ -62,12 +63,21 @@
       "type": "richtext"
     },
     "Colofon": {
+=======
+    "Gegevens": {
+      "type": "component",
+      "repeatable": false,
+      "component": "gegevens.gegevens",
+      "required": true
+    },
+    "Disclaimer": {
+>>>>>>> parent of 82007f6... footer columns opnieuw toegevoegd en colofon en algemene voorwaarden
       "type": "component",
       "repeatable": false,
       "component": "disclaimer-privacybeleid.disclaimer",
       "required": true
     },
-    "AlgemeneVoorwaarden": {
+    "privacybeleid": {
       "type": "component",
       "repeatable": false,
       "component": "disclaimer-privacybeleid.disclaimer",
