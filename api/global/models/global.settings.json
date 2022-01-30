@@ -68,10 +68,6 @@
       "repeatable": false,
       "component": "disclaimer-privacybeleid.disclaimer",
       "required": true
-    },
-    "FooterColumnOne": {
-      "type": "richtext",
-      "required": true
     }
   }
 }
