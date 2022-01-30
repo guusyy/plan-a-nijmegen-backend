@@ -51,19 +51,6 @@
       "component": "openingstijd.openingstijden",
       "required": true
     },
-<<<<<<< HEAD
-    "FooterColumnOne": {
-      "type": "richtext",
-      "required": true
-    },
-    "FooterColumnTwo": {
-      "type": "richtext"
-    },
-    "FooterColumnThree": {
-      "type": "richtext"
-    },
-    "Colofon": {
-=======
     "Gegevens": {
       "type": "component",
       "repeatable": false,
@@ -71,7 +58,6 @@
       "required": true
     },
     "Disclaimer": {
->>>>>>> parent of 82007f6... footer columns opnieuw toegevoegd en colofon en algemene voorwaarden
       "type": "component",
       "repeatable": false,
       "component": "disclaimer-privacybeleid.disclaimer",
