@@ -33,24 +33,6 @@
       "component": "shared.seo",
       "required": true
     },
-    "OpeningstijdDoordeweeks": {
-      "type": "component",
-      "repeatable": false,
-      "component": "openingstijd.openingstijden",
-      "required": true
-    },
-    "OpeningstijdZaterdag": {
-      "type": "component",
-      "repeatable": false,
-      "component": "openingstijd.openingstijden",
-      "required": true
-    },
-    "OpeningstijdZondag": {
-      "type": "component",
-      "repeatable": false,
-      "component": "openingstijd.openingstijden",
-      "required": true
-    },
     "Gegevens": {
       "type": "component",
       "repeatable": false,
